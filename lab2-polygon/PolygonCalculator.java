@@ -218,7 +218,7 @@ public class PolygonCalculator {
                 break;
 
             default:
-                System.out.println("Error.");
+                System.out.println("Error. Invalid choice.");
                 scanner.close();
                 return;
         }
